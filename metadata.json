@@ -1,0 +1,5 @@
+{
+  "name": "AI Banner Ad Generator",
+  "description": "An application that generates high-quality banner ads in various standard sizes from a product description and URL using the Gemini API.",
+  "requestFramePermissions": []
+}
